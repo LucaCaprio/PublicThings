@@ -3,4 +3,30 @@ body {
   font-weight: 200;
 }
 
-/*# sourceMappingURL=style.css.map */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 21.6px;
+}
+
+h4 {
+  font-size: 19.2px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 17.7777777778px;
+}
